@@ -12,7 +12,7 @@ Open the URL [http://127.0.0.1/ucms/index.php?do=sadmin_file](http://127.0.0.1/u
 
 ###Create a shell.php file to submit
 
-![submit](/img/UCMS.png)
+![submit](https://github.com/mySQLserver010/CVE_Request/blob/master/CVE_Request/img/UCMS.png)
 
 
 ![submit](/img/UCMS2.png)
